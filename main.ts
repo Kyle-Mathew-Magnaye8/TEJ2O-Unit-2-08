@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Kyle Matthew
- * Created on: Feb 2026
+ * Created on: Mar 2026
  * This program does an RGB LED by using circuits+.
 */
 
