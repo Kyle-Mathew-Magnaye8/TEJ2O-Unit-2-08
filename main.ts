@@ -52,5 +52,5 @@ input.onButtonPressed(Button.A, function () {
   pins.digitalWritePin(DigitalPin.P14, 1)
   pins.digitalWritePin(DigitalPin.P15, 1)
   basic.showString("WHITE")
-  basic.pause(1000)
+  basic.clearScreen()
 })
