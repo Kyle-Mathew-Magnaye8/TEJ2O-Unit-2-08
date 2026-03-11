@@ -61,3 +61,9 @@ while True:
         blue_pin.write_digital(1)
         display.scroll("WHITE")
         display.clear()
+
+        # off
+        red_pin.write_digital(0)
+        green_pin.write_digital(0)
+        blue_pin.write_digital(0)
+        display.clear()
