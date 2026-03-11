@@ -3,7 +3,7 @@
 *
 * Created by: Kyle Matthew
 * Created on: Mar 2026
-* This program does an RGB LED by using circuits+.
+* This program does an RGB LED by using circuits.
 """
 
 from microbit import *
